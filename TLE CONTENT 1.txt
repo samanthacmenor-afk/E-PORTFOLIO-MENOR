@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TLE LESSONS</title>
+<style>
+body{background-image:url('https://t4.ftcdn.net/jpg/07/30/79/87/360_F_730798797_VPXxBMbiFxTKI9JJvfw77PSoCDU2YTa2.jpg');background-size:cover;background-repeat:no-repeat;background-attachment:fixed;font-family:"Lucida Console";text-align:center;margin:0;padding-top:120px}
+nav{background-color:white;padding:15px 0;box-shadow:0 2px 6px rgba(0,0,0,0.1);position:fixed;top:0;left:0;width:100%;z-index:10;text-align:center}
+nav a{margin:0 15px;text-decoration:none;color:#329FEC;font-weight:bold}
+.content{max-width:800px;margin:40px auto;background-color:rgba(255,255,255,0.9);padding:30px;border-radius:15px;box-shadow:0 2px 6px rgba(0,0,0,0.2);text-align:left}
+img{width:100%;max-width:700px;border-radius:10px;margin:10px 0}
+h2{color:#329FEC;text-align:center}
+h1.bruh{background-color:#fff;padding:10px;border-radius:10px;font-family:"Lucida Console",monospace;font-size:26px;color:#333;text-align:center;line-height:1.6;box-shadow:0 2px 6px rgba(0,0,0,0.1);max-width:600px;margin:20px auto}
+p{color:#333;font-size:14px;line-height:1.6}
+</style>
+</head>
+
+<body>
+<nav>
+<a href="EPORT.html">🏠 Home</a>
+<a href="TLE-ICT CONTENT.html">⬅ Back</a>
+</nav>
+
+<h1 class="bruh" id="home">TLE OUTPUT</h1>
+
+<div class="content">
+<h2>📘 LESSON OUTPUT 1</h2>
+<img src="LESSON 1.png" alt="Lesson 1 Screenshot">
+<p><b>Description:</b> In this lesson, I learned what CSS (Cascading Style Sheets) is and how it helps in designing websites. I found out that CSS is used to control the colors, fonts, spacing, and overall layout of a webpage. It’s what makes websites look neat and appealing. I also learned about the layers of CSS which are inline, internal, and external. These layers are important because they show how the browser decides which style rule to follow if there are many. For example, inline CSS has the highest priority, then internal, and finally external. This helped me understand how styling order affects how a website looks.</p>
+</div>
+
+<div class="content">
+<h2>💻 LESSON OUTPUT 2</h2>
+<img src="LESSON 2.png" alt="Lesson 2 Screenshot">
+<p><b>Description:</b> This lesson focused more on the three kinds of CSS: inline, internal, and external. I learned how each one works and when it’s best to use them. Inline CSS is written directly inside an HTML tag, which is useful for small changes. Internal CSS is written inside a &lt;style&gt; tag in the HTML file, and it’s good for single-page designs. External CSS is written in a separate file and linked to the HTML, which is best for larger projects since it keeps the code clean and easier to maintain. This lesson made me understand why developers prefer external CSS when creating big websites.</p>
+</div>
+
+<div class="content">
+<h2>💻 LESSON OUTPUT 3</h2>
+<img src="LESSON 3.png" alt="Lesson 3 Screenshot">
+<p><b>Description:</b> In this lesson, I applied what I learned from the previous one by actually coding the three types of CSS. I practiced writing inline styles for quick changes, using internal styles for short pages, and linking external CSS files for organized projects. I learned how to properly connect a CSS file using the &lt;link&gt; tag and how to write rules with selectors, properties, and values. This hands-on experience helped me realize how each type of CSS changes the way a page looks and how important it is to choose the right one for different situations.</p>
+</div>
+
+<div class="content">
+<h2>💻 LESSON OUTPUT 4</h2>
+<img src="LESSON 4.png" alt="Lesson 4 Screenshot">
+<p><b>Description:</b> This lesson taught me how to use classes in CSS to style specific elements on a webpage. I learned that classes are used when you want to apply the same style to multiple elements without repeating code. To use a class, you add a class name in the HTML element and then style it in CSS using a period (.) before the class name. I also learned the difference between classes and IDs — classes can be reused many times, while IDs are meant for one unique element. This made my coding more efficient and helped me create more organized and flexible designs.</p>
+</div>
+
+<div class="content">
+<h2>💻 LESSON OUTPUT 5</h2>
+<img src="LESSON 5.png" alt="Lesson 5 Screenshot">
+<p><b>Description:</b> In this lesson, I explored element selectors, which are used to style all elements of the same type. For example, I could make all paragraphs have the same font color or all headings have the same size. I learned how to target specific HTML tags like &lt;p&gt;, &lt;h1&gt;, or &lt;div&gt; and apply consistent styles to them. This lesson helped me understand how to give a webpage a uniform look and how general styling works before adding more specific designs with classes or IDs.</p>
+</div>
+
+</body>
+</html>
